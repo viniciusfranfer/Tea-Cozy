@@ -40,9 +40,12 @@ nav {
     justify-content: space-between;
     align-items: center;
     text-decoration: underline;
-    min-width: 450px;
     margin-right: 15px;
     flex-shrink: 1;
+}
+
+nav a {
+    margin: 0 10px;
 }
 
 #mission {
